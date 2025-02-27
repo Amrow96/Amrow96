@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there! 👋 I'm Pau Gonzalez Marti
 
-<!--
-**Amrow96/Amrow96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **versatile developer** traveling arround the globe currently based in **Toronto**, with experience in web development, e-commerce platforms, and IT support. Passionate about **technology, cybersecurity, and AI**, I thrive on solving complex challenges and continuously expanding my knowledge across multiple fields.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** TypeScript, C++, C#, JavaScript
+- **Front-End:** Vue.js, HTML, CSS
+- **Back-End:** .NET, APIs, ORM
+- **Other Technologies:** Android Studio, Packet Tracer, Unity 3D, Adobe Suite (Photoshop, Illustrator, XD, Premiere)
+- **Certifications:** Cisco CCNA, Cybersecurity, Unity 3D, Junior Cybersecurity Analyst
+- **Languages:** Catalan (Native), Spanish (Native), English (Advanced)
+
+### 🚀 What I'm Working On
+
+- Advancing my **web development** expertise
+- Expanding my knowledge in **cybersecurity** and **AI**
+- Enhancing my **GitHub portfolio** with innovative projects
+
+### 📈 GitHub Stats
+
+![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### 🌍 Find Me Here
+
+- 📧 **Email:** [Your Email]
+- 🔗 **LinkedIn:** [Your LinkedIn Profile]
+- 🌐 **Portfolio Website:** [Your Website]
+
+### ⚡ Fun Fact
+
+I have a diverse background, having worked with **boats**, **construction**, and **warehouse logistics**, in addition to my IT expertise! I'm also passionate about **freediving** and always looking to push my limits.
