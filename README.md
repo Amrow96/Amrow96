@@ -19,13 +19,14 @@ I'm a **versatile developer** traveling arround the globe currently based in **T
 
 ### 📈 GitHub Stats
 
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrow96&show_icons=true&theme=radical)
 
 ### 🌍 Find Me Here
 
-- 📧 **Email:** [Your Email]
-- 🔗 **LinkedIn:** [Your LinkedIn Profile]
-- 🌐 **Portfolio Website:** [Your Website]
+- 📧 **Telegram:** t.me/pautrompeta
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/pautrompeta/
+- 🌐 **Portfolio Website:** https://Amrow96.github.io/
+
 
 ### ⚡ Fun Fact
 
