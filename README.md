@@ -30,9 +30,7 @@ I'm a **versatile developer** traveling arround the globe currently based in **T
 - Expanding my knowledge in **cybersecurity** and **AI**
 - Enhancing my **GitHub portfolio** with innovative projects
 
-### 📈 GitHub Stats
 
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrow96&show_icons=true&theme=radical)
 
 ### 🌍 Find Me Here
 
