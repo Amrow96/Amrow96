@@ -21,6 +21,7 @@ I'm a **versatile developer** traveling arround the globe currently based in **T
     <img alt="Network Technician Career Path Badge" src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="200" height="200" />
   </a>
 </p>
+
 - Cisco CCNA, introduction to Unity 3D
 - **Languages:** Catalan (Native), Spanish (Native), English (Advanced)
 
